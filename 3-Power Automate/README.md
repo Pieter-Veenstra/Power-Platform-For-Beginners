@@ -1,11 +1,11 @@
 # Power Automate 
 
 - The Basics
-   - Introduction to process automation and workflow concepts.
-   - Create your first flow
-   - Connectors and triggers and actions.
-   - Implementing business logic with conditions, loops, and expressions.
-   - Building approval processes and notifications.
+   1. Introduction to process automation and workflow concepts.
+   2. Create your first flow
+   3. Connectors and triggers and actions.
+   4. Implementing business logic with conditions, loops, and expressions.
+   5. Building approval processes and notifications.
  
 - More advanced
    - JSON
