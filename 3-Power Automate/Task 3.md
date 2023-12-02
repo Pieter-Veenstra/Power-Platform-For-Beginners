@@ -186,16 +186,14 @@ In this section, you'll find a list of additional resources and articles designe
 ### Supplemental Reading
 
 - **Understanding Conditions in Power Automate**: A comprehensive guide to understanding how conditions work in Power Automate and how to use them effectively. [Read more](https://docs.microsoft.com/en-us/power-automate/add-condition)
-  
-- **Advanced SharePoint Actions**: This resource provides a deeper understanding of how to use SharePoint actions in Power Automate, including how to set conditions and loops. [Read more](https://docs.microsoft.com/en-us/power-automate/sharepoint-connector-actions)
 
 - **Automating Business Processes with Power Automate**: Learn how to implement business logic using conditions, loops, and expressions in Power Automate. [Read more](https://docs.microsoft.com/en-us/power-automate/business-process-flows-overview)
 
 ### Learn Modules
 
-- **Implementing Business Logic in Power Automate**: This Microsoft Learn module takes you through the steps of implementing complex business logic in your flows. [Start Learning](https://learn.microsoft.com/en-us/module/business-logic-power-automate/)
+- **Implementing Business Logic in Power Automate**: This Microsoft Learn module takes you through the steps of implementing complex business logic in your flows. [Start Learning](https://learn.microsoft.com/en-us/training/paths/automate-process-power-automate/)
 
-- **Managing Approvals in Power Automate**: This module will teach you how to set up and manage approval workflows. [Start Learning](https://learn.microsoft.com/en-us/module/managing-approvals-power-automate/)
+- **Managing Approvals in Power Automate**: This module will teach you how to set up and manage approval workflows. [Start Learning](https://learn.microsoft.com/en-us/training/modules/approvals-power-automate/)
 
 ## Post-lesson Quiz
 This quiz is designed to test your understanding of implementing business logic with conditions, loops, and expressions in Power Automate. It's a great way to check if you've grasped the key concepts from this lesson.
